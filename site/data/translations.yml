@@ -42,3 +42,8 @@
   code: zh-CN
   description: Bootstrap 5 中文文档
   url: https://v5.bootcss.com/
+  
+- name: Simplified Chinese online debugging
+  code: zh-CN
+  description: Bootstrap 5 简体中文在线调试
+  url: https://www.orchome.com/bootstrap5/index
